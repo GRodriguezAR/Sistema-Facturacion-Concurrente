@@ -1,0 +1,11 @@
+25,Monitor,70,543.10
+40,Fuente de Poder,25,768.90
+11,Disco Duro,30,975.80
+22,GPU,52,623.30
+98,Mouse,40,667.40
+54,Cooler,29,759.90
+4,Laptop,99,415.40
+76,Router,47,642.30
+81,Auriculares,39,620.80
+19,Smartphone,71,961.50
+3,Webcam,62,488.30
